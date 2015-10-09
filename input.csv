@@ -201,8 +201,7 @@ Corinthians,-23.54855636,-46.66523874,First tier,e41a1c,Brazil
 Coritiba,-25.42109615,-49.25955176,First tier,e41a1c,Brazil
 Cruzeiro,-19.86591023,-43.97106975,First tier,e41a1c,Brazil
 Figueirense,-27.58571051,-48.58650774,First tier,e41a1c,Brazil
-Flamengo,-22.91206776,-43.23013365,First tier,e41a1c,Brazil
-Fluminense,-22.91206776,-43.23013365,First tier,e41a1c,Brazil
+Flamengo / Fluminense,-22.91206776,-43.23013365,First tier,e41a1c,Brazil
 Goiás,-16.69906277,-49.23414588,First tier,e41a1c,Brazil
 Grêmio,-30.06043535,-51.21331573,First tier,e41a1c,Brazil
 Internacional,-30.06556097,-51.23583287,First tier,e41a1c,Brazil
@@ -296,24 +295,22 @@ Alianza Petrolera,7.072955,-73.864635,First tier,e41a1c,Colombia
 Asociación Deportivo Cali,3.429847,-76.541179,First tier,e41a1c,Colombia
 Asociación Deportivo Pasto,1.198061,-77.277682,First tier,e41a1c,Colombia
 Atlético Huila,2.935798,-75.280123,First tier,e41a1c,Colombia
-Atlético Nacional,6.256773,-75.59025,First tier,e41a1c,Colombia
+Atlético Nacional / Deportivo Independiente Medellín,6.256773,-75.59025,First tier,e41a1c,Colombia
 Club Deportes Tolima,4.429594,-75.218239,First tier,e41a1c,Colombia
 Club Deportivo Junior,10.926923,-74.800512,First tier,e41a1c,Colombia
 Cúcuta Deportivo,7.894637,-72.501799,First tier,e41a1c,Colombia
 Deportivo Boyacá Chicó,5.542265,-73.353267,First tier,e41a1c,Colombia
-Deportivo Independiente Medellín,6.256773,-75.59025,First tier,e41a1c,Colombia
 Envigado,6.164513,-75.599113,First tier,e41a1c,Colombia
 Jaguares,8.764444,-75.870118,First tier,e41a1c,Colombia
 La Equidad,4.623335,-74.135259,First tier,e41a1c,Colombia
-Millonarios,4.645915,-74.077528,First tier,e41a1c,Colombia
+Millonarios / Santa Fe,4.645915,-74.077528,First tier,e41a1c,Colombia
 Once Caldas,5.056447,-75.489678,First tier,e41a1c,Colombia
 Patriotas,5.542265,-73.353267,First tier,e41a1c,Colombia
-Santa Fe,4.645915,-74.077528,First tier,e41a1c,Colombia
 Talento Dorado,4.804569,-75.752057,First tier,e41a1c,Colombia
 Tuluá,4.074891,-76.20159,First tier,e41a1c,Colombia
 Universidad Autónoma del Caribe,10.926923,-74.800512,First tier,e41a1c,Colombia
-AD Belén Siglo XXI,9.9994930382,-84.1229957342,First tier,e41a1c,Costa Rica
-AD Carmelita,10.0217651018,-84.2090141773,First tier,e41a1c,Costa Rica
+AD Belén Siglo XXI,9.9770028331,-84.1928780079,First tier,e41a1c,Costa Rica
+AD Carmelita / LD Alajuelense,10.0217651018,-84.2090141773,First tier,e41a1c,Costa Rica
 AD Filial Club Universidad de Costa Rica,9.9446119905,-84.0439684872,First tier,e41a1c,Costa Rica
 AD Municipal Liberia,10.6359769712,-85.4333889484,First tier,e41a1c,Costa Rica
 AD Santos de Guápiles,10.2115064049,-83.7899296979,First tier,e41a1c,Costa Rica
@@ -321,7 +318,6 @@ CS Cartaginés,9.8584717886,-83.9187133312,First tier,e41a1c,Costa Rica
 CS Herediano,9.9994930382,-84.1229957342,First tier,e41a1c,Costa Rica
 CS Uruguay de Coronado,9.973003355,-84.0069633722,First tier,e41a1c,Costa Rica
 Deportivo Saprissa,9.9655167496,-84.07533288,First tier,e41a1c,Costa Rica
-LD Alajuelense,10.0217651018,-84.2090141773,First tier,e41a1c,Costa Rica
 Limón FC,9.9924349689,-83.033208847,First tier,e41a1c,Costa Rica
 Municipal de Pérez Zeledón,9.368820759,-83.704662323,First tier,e41a1c,Costa Rica
 AD Aserrí,9.862150271,-84.09158706,Second tier,377eb8,Costa Rica
@@ -436,6 +432,21 @@ LDU de Loja,-3.9920131341,-79.2077350616,First tier,e41a1c,Ecuador
 Liga Deportiva Universitaria de Quito,-0.1076906285,-78.4890478849,First tier,e41a1c,Ecuador
 Mushuc Runa SC,-1.2447635537,-78.6230617762,First tier,e41a1c,Ecuador
 SD Aucas,-0.2788842633,-78.5462003946,First tier,e41a1c,Ecuador
+Al Ahly,30.05115378,31.29699647,First tier,e41a1c,Egypt
+Al Ittihad / Haras El Hodood,31.15095457,29.84841585,First tier,e41a1c,Egypt
+Al Masry,29.95760702,32.54257679,First tier,e41a1c,Egypt
+Al Mokawloon / Wadi Degla,30.0511537791,31.2969964743,First tier,e41a1c,Egypt
+Aswan FC,24.066167,32.884472,First tier,e41a1c,Egypt
+El Daklyeh / El Shorta,30.0694653625,31.2886869907,First tier,e41a1c,Egypt
+El Entag El Harby,30.1744080346,31.4350955164,First tier,e41a1c,Egypt
+El Geish,30.11107632,31.36756539,First tier,e41a1c,Egypt
+ENPPI,30.0271263,31.44588053,First tier,e41a1c,Egypt
+Ghazl El Mehalla,30.96082943,31.17291749,First tier,e41a1c,Egypt
+Ismaily,30.60098964,32.27381945,First tier,e41a1c,Egypt
+Misr Lel Makasa,30.0624271323,31.2028563023,First tier,e41a1c,Egypt
+Petrojet,29.9576070163,32.5425767899,First tier,e41a1c,Egypt
+Smouha,31.1509545721,29.8484158516,First tier,e41a1c,Egypt
+Zamalek,30.0691078919,31.3123387098,First tier,e41a1c,Egypt
 AD Isidro Metapán,14.3320538581,-89.449224472,First tier,e41a1c,El Salvador
 Alianza FC,13.6810676346,-89.2223846912,First tier,e41a1c,El Salvador
 CD Águila / CD Dragon,13.4825918524,-88.1691348553,First tier,e41a1c,El Salvador
@@ -781,7 +792,7 @@ CD Marquense,14.96700828,-91.79171562,First tier,e41a1c,Guatemala
 CD Mictlán,14.33780997,-89.71452981,First tier,e41a1c,Guatemala
 CD Petapa,14.50190473,-90.55797458,First tier,e41a1c,Guatemala
 CD Suchitepéquez,14.53153688,-91.50923073,First tier,e41a1c,Guatemala
-Club Universidad de San Carlos,14.62574027,-90.51025271,First tier,e41a1c,Guatemala
+Club Universidad de San Carlos,14.586532255,-90.5478465557,First tier,e41a1c,Guatemala
 CSD Comunicaciones,14.6761299,-90.48838198,First tier,e41a1c,Guatemala
 CSD Municipal,14.62574027,-90.51025271,First tier,e41a1c,Guatemala
 CSD Xelajú Mario Camposeco,14.84204434,-91.5169394,First tier,e41a1c,Guatemala
@@ -791,10 +802,10 @@ Deportivo Guastatoya,14.86007854,-90.07186174,First tier,e41a1c,Guatemala
 CDyS Vida,15.7860798,-86.78591967,First tier,e41a1c,Honduras
 Club Deportivo Honduras Progreso,15.40065427,-87.81529885,First tier,e41a1c,Honduras
 Juticalpa,14.65856031,-86.21688902,First tier,e41a1c,Honduras
-Marathón,15.50749786,-88.03366184,First tier,e41a1c,Honduras
-Motagua,14.09844207,-87.20387757,First tier,e41a1c,Honduras
-Olimpia,14.09844207,-87.20387757,First tier,e41a1c,Honduras
+Marathón,15.50749786,-87.9991364479,First tier,e41a1c,Honduras
+Motagua / Olimpia,14.09844207,-87.20387757,First tier,e41a1c,Honduras
 Platense,15.84684917,-87.93778896,First tier,e41a1c,Honduras
+Real España,15.5074978604,-88.0336618423,First tier,e41a1c,Honduras
 Real Sociedad,15.65564862,-85.98833531,First tier,e41a1c,Honduras
 Victoria,15.7860798,-86.78591967,First tier,e41a1c,Honduras
 Békéscsaba,46.6860274332,21.1051440239,First tier,e41a1c,Hungary
@@ -1281,7 +1292,7 @@ Benfica,38.752682,-9.184742,First tier,e41a1c,Portugal
 Boavista,41.16219,-8.642594,First tier,e41a1c,Portugal
 Braga,41.562504,-8.429881,First tier,e41a1c,Portugal
 Estoril,38.715835,-9.4064,First tier,e41a1c,Portugal
-Marítimo,38.715835,-9.4064,First tier,e41a1c,Portugal
+Marítimo,32.6455768834,-16.9282901287,First tier,e41a1c,Portugal
 Moreirense,41.378109,-8.354557,First tier,e41a1c,Portugal
 Nacional,32.67058,-16.88353,First tier,e41a1c,Portugal
 Paços de Ferreira,41.271434,-8.385405,First tier,e41a1c,Portugal
@@ -1289,7 +1300,7 @@ Porto,41.161742,-8.583795,First tier,e41a1c,Portugal
 Rio Ave,41.362741,-8.740113,First tier,e41a1c,Portugal
 Sporting CP,38.761167,-9.160819,First tier,e41a1c,Portugal
 Tondela,40.512052,-8.082795,First tier,e41a1c,Portugal
-União da Madeira,40.898283,-8.499051,First tier,e41a1c,Portugal
+União da Madeira,32.72886,-16.773543,First tier,e41a1c,Portugal
 Vitória de Guimarães,41.445899,-8.30097,First tier,e41a1c,Portugal
 Vitória de Setúbal,38.531329,-8.891134,First tier,e41a1c,Portugal
 Académico de Viseu,40.65952922,-7.900446653,Second tier,377eb8,Portugal
