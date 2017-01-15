@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<title>Support your local football team</title>
+<title>Find your local football team</title>
 <html>
 <head>
 <meta charset="utf-8">
@@ -19,11 +19,11 @@
   <div id='loading'>
   </div>
   <div id='selected'>
-    <h1>Find your local club</h1>
+    <h1>Find your local football team</h1>
   </div>
   <div id='about'>
 <p>
-<a href ="https://github.com/guushoekman/voronoi" target="_blank">Explore on GitHub</a>
+<a href ="https://github.com/guushoekman/local-football-team" target="_blank">Explore on GitHub</a>
 <a href="https://www.mapbox.com/about/maps/" target="_blank">© Mapbox</a>
 <a href="http://www.openstreetmap.org/about/" target="_blank">© OpenStreetMap</a>
 </p>
@@ -38,6 +38,16 @@
     url = 'input.csv';
     initialSelection = d3.set(['First tier']);
     voronoiMap(map, url, initialSelection);
+  </script>
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-90365352-4', 'auto');
+    ga('send', 'pageview');
+
   </script>
 </body>
 </html>
